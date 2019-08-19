@@ -1,7 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Change Alice Content.
 New Alice Text.
 Alice Text Rebase Example
 New Alice Text.
 Patrick add text to Alice.
+Change Alice Text in github.
 
